@@ -4,7 +4,8 @@
 
 I am a motivated junior front-end developer with analytical thinking and organizational skills. I have experience working in a team on educational projects. I want to develop my skills and create modern web solutions, and I am always open to new knowledge. I am responsible, punctual, attentive to details, able to manage time, and easily find a common language with colleagues, keeping a good mood.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pavlo-chernichenko-03698a337) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Pavlo_Chernichenko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlo-chernichenko-03698a337)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Pavlo_Chernichenko)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=0DBC63&multiline=true&width=435&height=68&lines=oykss%3A~%24+status;I'm+a+junior+frontend+developer;oykss%3A~%24+clear)](https://git.io/typing-svg)
 
