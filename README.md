@@ -2,12 +2,12 @@
 ---
 ### 💫 About Me:
 
-I am a motivated junior front-end developer with analytical thinking and organizational skills. I have experience working in a team on educational projects. I want to develop my skills and create modern web solutions, and I am always open to new knowledge. I am responsible, punctual, attentive to details, able to manage time, and easily find a common language with colleagues, keeping a good mood.
+I am a motivated junior full-stack developer with analytical thinking and organizational skills. I have experience working in a team on educational projects. I want to develop my skills and create modern web solutions, and I am always open to new knowledge. I am responsible, punctual, attentive to details, able to manage time, and easily find a common language with colleagues, maintaining a positive attitude.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlo-chernichenko-03698a337)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Pavlo_Chernichenko)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=0DBC63&multiline=true&width=435&height=68&lines=oykss%3A~%24+status;I'm+a+junior+frontend+developer;oykss%3A~%24+clear)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=0DBC63&vCenter=true&multiline=true&repeat=false&width=435&height=120&lines=oykss%3A~%24+status;%E2%80%8E%E2%80%8E%E3%85%A4%F0%9F%9B%A0%EF%B8%8F+Full-Stack+Developer;%E3%85%A4%E2%9A%A1+JavaScript+%7C+Node.js+%7C+React+++;%E3%85%A4%F0%9F%9A%80+Building+the+web%2C+one+line+at+a+time...)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oykss/oykss/output/github-contribution-grid-snake-dark.svg">
