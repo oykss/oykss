@@ -62,8 +62,7 @@ Full-stack developer focusing on React.js, Vue.js, TypeScript and Node.js. I hav
 Fullstack Developer Certificate – GoIT
 Completed a 700+ hour course covering HTML, CSS, JavaScript, React, Node.js, TypeScript, soft and career skills.
 
-📄 View Certificate (PDF)
-(or use Raw link for direct download)
+[📄 View Certificate (PDF)](https://github.com/oykss/oykss/blob/909a25daa8402060828f60a59721fbb8f9a5d762/assets/certificates/Fullstack_Developer.pdf)
 
 ### 📊 GitHub Stats:
 
