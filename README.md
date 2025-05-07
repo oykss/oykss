@@ -1,5 +1,7 @@
 ### Hi there 👋, I’m Pavlo
+
 ---
+
 ### 💫 About Me:
 
 Full-stack developer focusing on React.js, Vue.js, TypeScript and Node.js. I have strong knowledge of modern frontend and backend and can create SPA and REST APIs. I have completed specialized courses, am actively developing in web development, and already have practical experience in creating projects. I am open to new opportunities where I can apply technical skills and grow as a developer.
@@ -17,17 +19,18 @@ Full-stack developer focusing on React.js, Vue.js, TypeScript and Node.js. I hav
 
 ---
 
-### Languages :
+### 🌐 Languages:
 
-```    
+```
 🇺🇦 Ukrainian - Native
 ```
-  
-``` 
+
+```
 🇬🇧 English - Pre-Intermediate
 ```
 
 ### 💻 Tech Stack:
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -54,8 +57,13 @@ Full-stack developer focusing on React.js, Vue.js, TypeScript and Node.js. I hav
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+### 📜 Certificates:
 
+Fullstack Developer Certificate – GoIT
+Completed a 700+ hour course covering HTML, CSS, JavaScript, React, Node.js, TypeScript, soft and career skills.
 
+📄 View Certificate (PDF)
+(or use Raw link for direct download)
 
 ### 📊 GitHub Stats:
 
@@ -63,10 +71,5 @@ Full-stack developer focusing on React.js, Vue.js, TypeScript and Node.js. I hav
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=oykss&icon=8&color=6)](https://visitcount.itsvg.in) 
-[![codewars](https://www.codewars.com/users/oykss/badges/micro)](https://www.codewars.com/users/oykss) 
-
-
-
-
-
+[![](https://visitcount.itsvg.in/api?id=oykss&icon=8&color=6)](https://visitcount.itsvg.in)
+[![codewars](https://www.codewars.com/users/oykss/badges/micro)](https://www.codewars.com/users/oykss)
