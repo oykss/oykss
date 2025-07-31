@@ -9,7 +9,7 @@ Full-stack developer focusing on React.js, Vue.js, TypeScript and Node.js. I hav
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlo-chernichenko-03698a337)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Pavlo_Chernichenko)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=0DBC63&vCenter=true&multiline=true&repeat=false&width=435&height=120&lines=oykss%3A~%24+status;%E2%80%8E%E2%80%8E%E3%85%A4%F0%9F%9B%A0%EF%B8%8F+Full-Stack+Developer;%E3%85%A4%E2%9A%A1+JavaScript+%7C+Node.js+%7C+React+%2F+Vue+++;%E3%85%A4%F0%9F%9A%80+Building+the+web%2C+one+line+at+a+time...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=0DBC63&vCenter=true&multiline=true&repeat=false&width=435&height=120&lines=oykss%3A~%24+status;%E2%80%8E%E2%80%8E%E3%85%A4%F0%9F%9B%A0%EF%B8%8F+Full-Stack+Developer;%E3%85%A4%E2%9A%A1+JavaScript+%7C+Node.js+%7C+Vue+%2F+React+++;%E3%85%A4%F0%9F%9A%80+Building+the+web%2C+one+line+at+a+time...)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oykss/oykss/output/github-contribution-grid-snake-dark.svg">
@@ -31,9 +31,11 @@ Full-stack developer focusing on React.js, Vue.js, TypeScript and Node.js. I hav
 
 ### 💻 Tech Stack:
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-%23FF4154?style=for-the-badge&logo=react-query&logoColor=white)
@@ -56,6 +58,7 @@ Full-stack developer focusing on React.js, Vue.js, TypeScript and Node.js. I hav
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ### 📜 Certificates:
 
