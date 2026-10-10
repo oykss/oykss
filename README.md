@@ -7,7 +7,6 @@
 Full-stack developer focusing on React.js, Vue.js, TypeScript and Node.js. I have strong knowledge of modern frontend and backend and can create SPA and REST APIs. I have completed specialized courses, am actively developing in web development, and already have practical experience in creating projects. I am open to new opportunities where I can apply technical skills and grow as a developer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlo-chernichenko-03698a337)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Pavlo_Chernichenko)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=0DBC63&vCenter=true&multiline=true&repeat=false&width=435&height=120&lines=oykss%3A~%24+status;%E2%80%8E%E2%80%8E%E3%85%A4%F0%9F%9B%A0%EF%B8%8F+Full-Stack+Developer;%E3%85%A4%E2%9A%A1+JavaScript+%7C+Node.js+%7C+Vue+%2F+React+++;%E3%85%A4%F0%9F%9A%80+Building+the+web%2C+one+line+at+a+time...)](https://git.io/typing-svg)
 
